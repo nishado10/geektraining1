@@ -1,2 +1,6 @@
 this is file1
+<<<<<<< HEAD
 file1 commit from dev1 side
+=======
+file1 commit from dev2 side
+>>>>>>> dev2
